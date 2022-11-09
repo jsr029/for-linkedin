@@ -1,0 +1,41 @@
+*, :after, :before{
+    box-sizing: border-box
+}
+body{
+    color:white;
+}
+html{
+    font-family: 'Oswald';
+    font-size: 16px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+img{
+    border: none;
+}
+a{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+#root{
+    max-width: 837px;
+    height: auto;
+    margin: 25px auto;
+    display: flex;
+    flex-direction: column;
+    background: #3f474a;
+}
+.traduction{
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    column-gap: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}

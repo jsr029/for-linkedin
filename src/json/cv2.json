@@ -1,0 +1,263 @@
+{
+    "dataCv": [
+        {
+            "coords": {
+                "title": "Développeur d'Applications Front-End",
+                "contact": {
+                    "port": "07 69 72 84 73",
+                    "email": "jsr059@gmail.com",
+                    "city": "QUIMPER.fr",
+                    "site": "reactjs-dev-app.fr",
+                    "linkedin": "www.linkedin.com/in/rakotonirinajeansebastien"
+                },
+                "languages": [
+                    {
+                        "id": 1,
+                        "value": "HTML"
+                    },
+                    {
+                        "id": 2,
+                        "value": "CSS"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Javascript"
+                    },
+                    {
+                        "id": 4,
+                        "value": "PHP (Cakephp)"
+                    },
+                    {
+                        "id": 5,
+                        "value": "ReactJs"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Express"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Node"
+                    },
+                    {
+                        "id": 8,
+                        "value": "AngularJs"
+                    }
+                ],
+                "cms": [
+                    {
+                        "id": 9,
+                        "value": "Wordpress"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Joomla"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Prestashop"
+                    }
+                ],
+                "tools": [
+                    {
+                        "id": 12,
+                        "value": "Notepad+"
+                    },
+                    {
+                        "id": 13,
+                        "value": "MongoDB"
+                    },
+                    {
+                        "id": 14,
+                        "value": "Netbeans"
+                    },
+                    {
+                        "id": 15,
+                        "value": "Vscode"
+                    },
+                    {
+                        "id": 16,
+                        "value": "Gimp"
+                    },
+                    {
+                        "id": 17,
+                        "value": "OpenVpn"
+                    },
+                    {
+                        "id": 18,
+                        "value": "Filemaker"
+                    },
+                    {
+                        "id": 19,
+                        "value": "FileZilla"
+                    },
+                    {
+                        "id": 20,
+                        "value": "Google"
+                    }
+                ],
+                "quality": [
+                    {
+                        "id": 21,
+                        "value": "Adaptabilité"
+                    },
+                    {
+                        "id": 22,
+                        "value": "Partage"
+                    },
+                    {
+                        "id": 23,
+                        "value": "Dynamisme"
+                    },
+                    {
+                        "id": 24,
+                        "value": "Fiable"
+                    },
+                    {
+                        "id": 25,
+                        "value": "Communication"
+                    },
+                    {
+                        "id": 26,
+                        "value": "Esprit d'équipe"
+                    },
+                    {
+                        "id": 27,
+                        "value": "Curiosité"
+                    },
+                    {
+                        "id": 28,
+                        "value": "Honnêteté"
+                    }
+                ],
+                "Interest": [
+                    {
+                        "id": 29,
+                        "value": "Séries"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cuisine"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Langages web"
+                    }
+                ]
+            },
+            "profil": [
+                "Issu du milieu commercial, autodidacte passionné des nouvelles technologies, j'offre mes services avec mes compétences, tout en me formant et consolider mes acquis, pour mieux répondre aux exigences du client, idéal pour une équipe de rêve, en CDD/CDI, 100% à distance."
+            ],
+            "skills": [
+                {
+                    "id": 32,
+                    "value": "Analyser les besoins du client"
+                },
+                {
+                    "id": 33,
+                    "value": "Réaliser des maquettes"
+                },
+                {
+                    "id": 34,
+                    "value": "Intégrer suivant la maquette"
+                },
+                {
+                    "id": 35,
+                    "value": "Implémenter une interface responsive"
+                },
+                {
+                    "id": 36,
+                    "value": "Analyser les problèmes techniques"
+                },
+                {
+                    "id": 37,
+                    "value": "Déterminer les mesures correctives"
+                },
+                {
+                    "id": 38,
+                    "value": "Réaliser la documentation technique"
+                },
+                {
+                    "id": 39,
+                    "value": "Ecrire des tests unitaires et d'intégration"
+                }
+            ],
+            "xperiences": {
+                "dev": [
+                    {
+                        "id": 40,
+                        "titre": "DEVELOPPEUR D'APPLICATIONS WEB ET WINDOWS",
+                        "location": "AFFABLE59 | 2015 - 2018",
+                        "missions": [
+                            {
+                                "id": 41,
+                                "value": "Bénévolat"
+                            },
+                            {
+                                "id": 42,
+                                "value": "Mettre en place le site web"
+                            },
+                            {
+                                "id": 43,
+                                "value": "Créer une application de gestion"
+                            },
+                            {
+                                "id": 44,
+                                "value": "Développer une application windows (Filemaker Pro et Server)"
+                            },
+                            {
+                                "id": 45,
+                                "value": "Créer VPN via Freebox"
+                            },
+                            {
+                                "id": 46,
+                                "value": "Définir les niveaux d'accès des Administrés"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47,
+                        "titre": "DEVELOPPEUR WEB FULLSTACK",
+                        "location": "ODEA-AMCALA | 2013 - 2016",
+                        "missions": [
+                            {
+                                "id": 48,
+                                "value": "Fonte (Cakephp) et refonte (Wordpress) de site web"
+                            },
+                            {
+                                "id": 49,
+                                "value": "Etablir un cahier des charges"
+                            },
+                            {
+                                "id": 50,
+                                "value": "Gérer l'interface administrateur de l'hébergeur"
+                            },
+                            {
+                                "id": 51,
+                                "value": "Créer la base de données Sql (PhpMyAdmin)"
+                            },
+                            {
+                                "id": 52,
+                                "value": "Téléverser les fichiers via Filezilla"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "education": {
+                "school": [
+                    {
+                        "id": 53,
+                        "title": "DEVELOPPEUR D'APPLICATIONS FRONT-END",
+                        "location": "OPENCLASSROOMS | 2021 - 2022"
+                    },
+                    {
+                        "id": 54,
+                        "title": "NIVEAU 2IEME ANNEE DEUG A",
+                        "location": "UNIVERSITE D'EVREUX | 1991 - 1994"
+                    }
+                ]
+            }
+        }
+    ]
+}

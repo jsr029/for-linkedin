@@ -1,0 +1,10 @@
+@media screen and (max-width:768px) {
+    .jsr029_main{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        .jsr029_main-left, .jsr029_main-right{
+            width: 100%;
+        }
+    }
+}

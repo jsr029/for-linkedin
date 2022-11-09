@@ -1,0 +1,12 @@
+.jsr029_error404{
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    flex: 1;
+    h2, a{
+        color: $primary-color;
+    }
+}

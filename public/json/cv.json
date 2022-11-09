@@ -1,0 +1,113 @@
+
+    {
+        "resume": [
+            {
+                "cvData": {
+                    "contact": {
+                        "port": "07 69 72 84 73}",
+                        "email": "jsr059@gmail.com",
+                        "city": "QUIMPER.fr",
+                        "site": "reactjs-dev-fr",
+                        "linkedin": "www.linkedin.com/in/rakotonirinajeansebastien"
+                    },
+                    "languages": [
+                        "HTML",
+                        "CSS",
+                        "Javascript",
+                        "PHP (Cakephp)",
+                        "ReactJS",
+                        "Express",
+                        "Node",
+                        "AngularJS"
+                    ],
+                    "cms": [
+                        "Wordpress",
+                        "Joomla",
+                        "Prestashop"
+                    ],
+                    "tools": [
+                        "Noepad+",
+                        "MongoDB",
+                        "Netbeans",
+                        "Vscode",
+                        "Gimp",
+                        "OpenVpn",
+                        "Filemaker",
+                        "Filezilla",
+                        "Google"
+                    ],
+                    "quality": [
+                        "Adaptabilité",
+                        "Partage",
+                        "Dynamisme",
+                        "Fiable",
+                        "Communication",
+                        "Esprit d'équipe",
+                        "Curiosité",
+                        "Honnêteté"
+                    ],
+                    "Interest": [
+                        "Séries",
+                        "Cuisine",
+                        "langages web"
+                    ]
+                },
+                "profil": [
+                    "Issu du milieu commercial, autodidacte passionné des nouvelles technologies, j'offre mes services avec mes compétences, tout en me formant et consolider mes acquis, pour mieux répondre aux exigences du client, idéal pour une équipe de rêve, en CDD/CDI, 100% à distance."
+                ],
+                "skills": [
+                    "Analyser les besoins du client",
+                    "Réaliser des maquettes",
+                    "Intégrer suivant la maquette",
+                    "Implémenter une interface responsive",
+                    "Analyser les problèmes techniques",
+                    "Déterminer les mesures correctives",
+                    "Réaliser les supports techniques",
+                    "Ecrire des tests unitaires et d'intégration"
+                ],
+                "xperiences": {
+                    "dev": [
+                        {
+                            "id": 1,
+                            "titre": "DEVELOPPEUR D'APPLICATIONS WEB ET WINDOWS",
+                            "location": "AFFABLE59 | 2015 - 2018",
+                            "missions": [
+                                "Bénévolat",
+                                "Mettre en place le site web",
+                                "Céer une application de Gestion (Cakephp)",
+                                "Développer une application windows (Filemaker Pro et Server)",
+                                "Créer un VPN via Freebox",
+                                "Définir les niveaux d'accès des Administrés"
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "titre": "DEVELOPPEUR WEB FULLSTACK",
+                            "location": "ODEA-AMCALA | 2013 - 2016",
+                            "missions": [
+                                "Fonte (Cakephp) et refonte (Wordpress) de site web",
+                                "Etablir un cahier des charges",
+                                "Gérer l'interface administrateur de l'hébergeur",
+                                "Créer la base de données Sql (PhpMyAdmin)",
+                                "Téléverser les fichiers via Filezilla"
+                            ]
+                        }
+                    ]
+                },
+                "education": {
+                    "school": [
+                        {
+                            "id": 1,
+                            "title": "DEVELOPPEUR D'APPLICATIONS FRONT-END",
+                            "location": "OPENCLASSROOMS | 2021 - 2022"
+                        },
+                        {
+                            "id": 2,
+                            "title": "NIVEAU 2IEME ANNEE DEUG A",
+                            "location": "UNIVERSITE D'EVREUX | 1991 - 1994"
+                        }
+                    ]
+                }
+            }
+        ]
+    }

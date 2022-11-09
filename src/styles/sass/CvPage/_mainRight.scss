@@ -1,0 +1,20 @@
+.jsr029_main-right{
+    flex: 1;
+    ul{
+        list-style-type: circle;
+        margin-left: 10px;
+        font-family: 'Lato';
+    }
+    p{
+        margin-top: 5px;
+        font-family: 'Lato';
+    }
+    .jsr029_profil,
+    .jsr029_skills,
+    .jsr029_xp,
+    .jsr029_formation{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+}

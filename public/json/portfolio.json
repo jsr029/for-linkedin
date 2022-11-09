@@ -1,0 +1,72 @@
+{
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Reservia",
+            "url": "https://jsr029.github.io/RakotonirinaJeanSebastien_2_29072021/",
+            "imgSrc": "./images/web/Reservia.webp",
+            "github": "https://github.com/jsr029/RakotonirinaJeanSebastien_2_29072021/settings/pages",
+            "mission": "Transformer une maquette en site web"
+        },
+        {
+            "id": 2,
+            "title": "Oh My Food",
+            "url": "https://rakotonirina-jean-sebsatien-3-29072021-yp9c-ppoguqbjy-jsr029.vercel.app/",
+            "imgSrc": "./images/web/Omyfood.webp",
+            "github": "https://github.com/jsr029/RakotonirinaJeanSebsatien_3_29072021",
+            "mission": "Dynamiser une page web avec des animations css"
+        },
+        {
+            "id": 3,
+            "title": "Game On",
+            "url": "https://jsr029.github.io/RakotonirinaJeanSebastien_4_29072021/starterOnly/",
+            "imgSrc": "./images/web/GameOn.webp",
+            "github": "https://github.com/jsr029/RakotonirinaJeanSebastien_4_29072021",
+            "mission": "Créer une landing page avec Javascript"
+        },
+        {
+            "id": 4,
+            "title": "Fisheye",
+            "url": "https://rakotonirina-jean-sebastien-6-18102021-3qgz.vercel.app/",
+            "imgSrc": "./images/web/FishEye.webp",
+            "github": "https://github.com/jsr029/Rakotonirina_JeanSebastien_6_18102021",
+            "mission": "Créer un site pour une plateforme de photographe"
+        },
+        {
+            "id": 5,
+            "title": "Les petits pltas",
+            "url": "https://rakotonirina-jean-sebastien-7-18122021-version2-0.vercel.app/",
+            "imgSrc": "./images/web/PetitsPlats.webp"
+        },
+        {
+            "id": 6,
+            "title": "HRnet",
+            "url": "https://rakotonirina-jean-sebastien-p14-hrnet-06092022-adpx.vercel.app/",
+            "imgSrc": "./images/web/Hrnet.webp"
+        },
+        {
+            "id": 7,
+            "title": "Billed",
+            "url": "#",
+            "imgSrc": "./images/web/Billed.webp"
+        },
+        {
+            "id": 8,
+            "title": "Argent Bank",
+            "url": "#",
+            "imgSrc": "./images/web/ArgentBank.webp"
+        },
+        {
+            "id": 9,
+            "title": "Tableau de bord",
+            "url": "https://jsr029.github.io/Rakotonirina_JeanSebastien_12_01062022/",
+            "imgSrc": "./images/web/Analytics.webp"
+        },
+        {
+            "id": 10,
+            "title": "Kasa",
+            "url": "https://jsr029.github.io/Rakotonirina_JeanSebastien_11_25042022/",
+            "imgSrc": "./images/web/kasa.webp"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+.vl {
+    display: none;
+}
+
+.active {
+    display: flex;
+}
+
+@media screen and (max-width: 425px) {
+    nav {
+        width: 100%;
+        position: relative;
+    }
+
+    .vl {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        width: 14px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: right;
+    }
+
+    .hz {
+        display: none;
+    }
+
+    .resp {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 18px;
+        right: 18px;
+        width: 120px;
+        border-radius: 5px;
+        background: $tertiary-color;
+        z-index: 1;
+
+        li {
+            width: 100%;
+            text-align: center;
+            margin: 5px 0;
+            border-bottom: 1px dashed white;
+        }
+        li:last-child{
+            border-bottom: none;
+        }
+
+        li:hover {
+            background: $secondary-color;
+            text-align: center;
+
+            a {
+                color: $primary-color;
+            }
+        }
+    }
+}
